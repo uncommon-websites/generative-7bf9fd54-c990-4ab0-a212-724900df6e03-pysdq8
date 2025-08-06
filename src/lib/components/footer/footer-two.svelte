@@ -18,27 +18,6 @@
 			]
 		},
 		{
-			group: 'Solutions',
-			items: [
-				{
-					title: 'Manufacturing',
-					href: '/features'
-				},
-				{
-					title: 'Process Documentation',
-					href: '/features'
-				},
-				{
-					title: 'Knowledge Management',
-					href: '/about'
-				},
-				{
-					title: 'Multi-Location',
-					href: '/features'
-				}
-			]
-		},
-		{
 			group: 'Company',
 			items: [
 				{
@@ -50,10 +29,6 @@
 					href: '/team'
 				},
 				{
-					title: 'Careers',
-					href: 'mailto:careers@squint.com'
-				},
-				{
 					title: 'Contact',
 					href: '/contact'
 				}
@@ -63,20 +38,12 @@
 			group: 'Support',
 			items: [
 				{
-					title: 'Help Center',
-					href: 'mailto:support@squint.com'
-				},
-				{
 					title: 'Contact Support',
-					href: 'mailto:support@squint.com'
+					href: '/contact'
 				},
 				{
-					title: 'Privacy Policy',
-					href: '#'
-				},
-				{
-					title: 'Terms of Service',
-					href: '#'
+					title: 'Help Center',
+					href: '/contact'
 				}
 			]
 		}
@@ -122,7 +89,7 @@
 				</a>
 			</div>
 
-			<div class="grid grid-cols-2 gap-6 sm:grid-cols-4 md:col-span-3">
+			<div class="grid grid-cols-2 gap-6 sm:grid-cols-3 md:col-span-3">
 				{#each links as link}
 					<div class="space-y-4 text-sm">
 						<span class="block font-medium">{link.group}</span>

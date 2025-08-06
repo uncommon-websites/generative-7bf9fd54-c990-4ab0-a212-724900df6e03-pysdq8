@@ -1,7 +1,6 @@
 <script lang="ts">
 	import { Card, CardContent, CardHeader } from '$lib/components/card';
 	import CardDecorator from '$lib/components/feature/card-decorator.svelte';
-	import FooterTwo from '$lib/components/footer/footer-two.svelte';
 	import Camera from '@lucide/svelte/icons/camera';
 	import Search from '@lucide/svelte/icons/search';
 	import MapPin from '@lucide/svelte/icons/map-pin';
@@ -179,5 +178,3 @@
 		</div>
 	</div>
 </section>
-
-<FooterTwo />

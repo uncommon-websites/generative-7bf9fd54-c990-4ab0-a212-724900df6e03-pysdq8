@@ -3,7 +3,6 @@
 	import Textarea from '$lib/components/ui/textarea/textarea.svelte';
 	import Button from '$lib/components/button/button.svelte';
 	import Label from '$lib/components/label/label.svelte';
-	import FooterTwo from '$lib/components/footer/footer-two.svelte';
 	import Mail from '@lucide/svelte/icons/mail';
 	import MapPin from '@lucide/svelte/icons/map-pin';
 	import Clock from '@lucide/svelte/icons/clock';
@@ -218,5 +217,3 @@
 		</div>
 	</div>
 </section>
-
-<FooterTwo />

@@ -1,5 +1,4 @@
 <script lang="ts">
-	import FooterTwo from '$lib/components/footer/footer-two.svelte';
 
 	const leadership = [
 		{
@@ -193,5 +192,3 @@
 		</div>
 	</div>
 </section>
-
-<FooterTwo />

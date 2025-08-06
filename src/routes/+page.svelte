@@ -4,7 +4,6 @@
 	import FeatureEight from '$lib/components/feature/feature-eight.svelte';
 	import IntegrationEight from '$lib/components/integrations/integration-eight.svelte';
 	import CtaTwo from '$lib/components/cta/cta-two.svelte';
-	import FooterTwo from '$lib/components/footer/footer-two.svelte';
 </script>
 
 <svelte:head>
@@ -17,4 +16,3 @@
 <FeatureEight />
 <IntegrationEight />
 <CtaTwo />
-<FooterTwo />

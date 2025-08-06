@@ -1,7 +1,6 @@
 <script lang="ts">
 	import ContentOne from '$lib/components/content/content-one.svelte';
 	import StatsOne from '$lib/components/stats/stats-one.svelte';
-	import FooterTwo from '$lib/components/footer/footer-two.svelte';
 </script>
 
 <svelte:head>
@@ -90,5 +89,3 @@
 		</div>
 	</div>
 </section>
-
-<FooterTwo />
