@@ -2,7 +2,7 @@
 	import HeroOne from '$lib/components/hero/hero-one.svelte';
 	import StatsOne from '$lib/components/stats/stats-one.svelte';
 	import FeatureEight from '$lib/components/feature/feature-eight.svelte';
-	import TeamOne from '$lib/components/team/team-one.svelte';
+	import IntegrationEight from '$lib/components/integrations/integration-eight.svelte';
 	import CtaTwo from '$lib/components/cta/cta-two.svelte';
 	import FooterTwo from '$lib/components/footer/footer-two.svelte';
 </script>
@@ -15,6 +15,6 @@
 <HeroOne />
 <StatsOne />
 <FeatureEight />
-<TeamOne />
+<IntegrationEight />
 <CtaTwo />
 <FooterTwo />

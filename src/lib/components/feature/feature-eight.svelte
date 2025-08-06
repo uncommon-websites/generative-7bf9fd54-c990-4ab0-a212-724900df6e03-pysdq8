@@ -1,7 +1,8 @@
 <script>
 	import { Card, CardContent } from '../../card';
-	import Shield from '@lucide/svelte/icons/shield';
-	import Users from '@lucide/svelte/icons/users';
+	import Eye from '@lucide/svelte/icons/eye';
+	import Zap from '@lucide/svelte/icons/zap';
+	import Search from '@lucide/svelte/icons/search';
 </script>
 
 <section class="bg-gray-50 py-16 md:py-32 dark:bg-transparent">
@@ -22,9 +23,9 @@
 									fill="currentColor"
 								/>
 							</svg>
-							<span class="mx-auto block w-fit text-5xl font-semibold">100%</span>
+							<span class="mx-auto block w-fit text-5xl font-semibold">500K</span>
 						</div>
-						<h2 class="mt-6 text-center text-3xl font-semibold">Computer Vision</h2>
+						<h2 class="mt-6 text-center text-3xl font-semibold">Process Captures</h2>
 					</CardContent>
 				</Card>
 				<Card class="relative col-span-full overflow-hidden sm:col-span-3 lg:col-span-2">
@@ -82,7 +83,7 @@
 							<h2
 								class="group-hover:text-secondary-950 text-lg font-medium transition dark:text-white"
 							>
-								Visual Documentation
+								Computer Vision
 							</h2>
 							<p class="text-sm text-muted-foreground">
 								Capture work instructions automatically as your experts perform tasks, turning tribal knowledge
@@ -168,9 +169,9 @@
 							</svg>
 						</div>
 						<div class="relative z-10 mt-14 space-y-2 text-center">
-							<h2 class="text-lg font-medium transition">Fast & Optimized</h2>
+							<h2 class="text-lg font-medium transition">Instant Search</h2>
 							<p class="text-sm text-muted-foreground">
-								Optimize performance and keep users engaged with lightning-fast web experiences.
+								Find exactly what you need in seconds. Search through captured processes by keywords, steps, or visual elements.
 							</p>
 						</div>
 					</CardContent>
@@ -181,16 +182,16 @@
 							<div
 								class="relative flex aspect-square size-12 rounded-full border before:absolute before:-inset-2 before:rounded-full before:border dark:border-white/10 dark:before:border-white/5"
 							>
-								<Shield class="m-auto size-5" stroke-width={1} />
+								<Zap class="m-auto size-5" stroke-width={1} />
 							</div>
 							<div class="space-y-2">
 								<h2
 									class="group-hover:text-secondary-950 text-lg font-medium text-zinc-800 transition dark:text-white"
 								>
-									Continuous Growth
+									Multi-Location Sync
 								</h2>
 								<p class="text-sm text-foreground text-muted-foreground">
-									Stay ahead with the latest trends in web development and innovation.
+									Standardize processes across all manufacturing locations. Updates sync instantly to ensure consistency everywhere.
 								</p>
 							</div>
 						</div>
@@ -251,10 +252,10 @@
 							<div
 								class="relative flex aspect-square size-12 rounded-full border before:absolute before:-inset-2 before:rounded-full before:border dark:border-white/10 dark:before:border-white/5"
 							>
-								<Users class="m-auto size-6" stroke-width={1} />
+								<Search class="m-auto size-6" stroke-width={1} />
 							</div>
 							<div class="space-y-2">
-								<h2 class="text-lg font-medium transition">Keep your loved ones safe</h2>
+								<h2 class="text-lg font-medium transition">Tribal Knowledge Capture</h2>
 								<p class="text-sm text-muted-foreground">
 									Build, share, and improve projects together using the best tools for
 									collaboration.

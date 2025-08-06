@@ -10,12 +10,12 @@
 			<div class="order-last mt-6 flex flex-col gap-12 md:order-first">
 				<div class="space-y-6">
 					<h2 class="text-3xl font-semibold text-balance md:text-4xl lg:text-5xl">
-						Integrate with your favorite LLMs
+						Works with your existing tools
 					</h2>
 					<p class="text-muted-foreground">
-						Connect seamlessly with popular platforms and services to enhance your workflow.
+						Squint integrates seamlessly with your current manufacturing systems and quality management platforms.
 					</p>
-					<Button variant="outline" size="sm">Get started</Button>
+					<Button variant="outline" size="sm">View Integrations</Button>
 				</div>
 
 				<div class="mt-auto grid grid-cols-[auto_1fr] gap-3">
