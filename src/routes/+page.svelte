@@ -8,8 +8,8 @@
 </script>
 
 <svelte:head>
-	<title>Sentra - Proactive Organizational Alignment for Fast-Growing Tech Companies</title>
-	<meta name="description" content="Stop wasting time on misaligned meetings. Sentra's AI agents detect organizational misalignment in real-time and intervene before it costs your company time and money." />
+	<title>Squint - Instant Tribal Knowledge Capture for Manufacturing Teams</title>
+	<meta name="description" content="Transform tribal knowledge into searchable work instructions automatically. Squint's computer vision captures manufacturing processes as they happen, eliminating quality inconsistencies across locations." />
 </svelte:head>
 
 <HeroOne />

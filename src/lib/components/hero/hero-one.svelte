@@ -72,7 +72,7 @@
 								href="#link"
 								class="group mx-auto flex w-fit items-center gap-4 rounded-full border bg-muted p-1 pl-4 shadow-md shadow-zinc-950/5 transition-colors duration-300 hover:bg-background dark:border-t-white/5 dark:shadow-zinc-950 dark:hover:border-t-border"
 							>
-								<span class="text-sm text-foreground">Proactive AI for Organizational Alignment</span>
+								<span class="text-sm text-foreground">Visual Documentation Workflows for Manufacturing</span>
 								<span
 									class="block h-4 w-0.5 border-l bg-white dark:border-background dark:bg-zinc-700"
 								></span>
@@ -95,10 +95,10 @@
 						</div>
 
 						<h1 class="mt-8 text-6xl text-balance md:text-7xl lg:mt-16 xl:text-[5.25rem]">
-							Stop Wasting Time on Misaligned Teams
+							Tribal Knowledge, Captured in Seconds
 						</h1>
 						<p class="mx-auto mt-8 max-w-2xl text-lg text-balance">
-							Sentra's autonomous AI agents detect organizational misalignment in real-time and intervene before it costs your company time and money. Built for fast-growing tech companies.
+							No more chasing experts or cross-training manually. Squint turns everyday workflow into searchable how-to guides—automatically. Built for manufacturing teams.
 						</p>
 
 						<div class="mt-12 flex flex-col items-center justify-center gap-2 md:flex-row">
@@ -107,10 +107,10 @@
 								style="border-radius: calc(0.5rem + 0.125rem + 4px);"
 							>
 								<Button href="#contact" size="lg" class="rounded-xl px-5 text-base">
-									<span class="text-nowrap">Get Early Access</span>
+									<span class="text-nowrap">Get a Demo</span>
 								</Button>
 							</div>
-							<Button size="lg" variant="ghost" class="rounded-xl px-5">Book a Demo</Button>
+							<Button size="lg" variant="ghost" class="rounded-xl px-5">See How It Works</Button>
 						</div>
 					</div>
 				</div>
@@ -124,15 +124,15 @@
 					>
 						<img
 							class="relative hidden aspect-15/8 rounded-2xl bg-background dark:block"
-							src="/mail2.png"
-							alt="app screen"
+							src="/static/generated/image-a-manufacturing-worker-documenting-an-as.webp"
+							alt="Manufacturing worker documenting assembly process"
 							width="2700"
 							height="1440"
 						/>
 						<img
 							class="relative z-2 aspect-15/8 rounded-2xl border border-border/25 dark:hidden"
-							src="/mail2-light.png"
-							alt="app screen"
+							src="/static/generated/image-a-manufacturing-worker-documenting-an-as.webp"
+							alt="Manufacturing worker documenting assembly process"
 							width="2700"
 							height="1440"
 						/>
@@ -146,7 +146,7 @@
 					class="absolute inset-0 z-10 flex scale-95 items-center justify-center opacity-0 duration-500 group-hover:scale-100 group-hover:opacity-100"
 				>
 					<a href="/" class="block text-sm duration-150 hover:opacity-75">
-						<span> Meet Our Customers</span>
+						<span> Trusted by Manufacturing Teams</span>
 
 						<ChevronRight class="ml-1 inline-block size-3" />
 					</a>

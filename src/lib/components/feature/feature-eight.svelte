@@ -24,7 +24,7 @@
 							</svg>
 							<span class="mx-auto block w-fit text-5xl font-semibold">100%</span>
 						</div>
-						<h2 class="mt-6 text-center text-3xl font-semibold">Customizable</h2>
+						<h2 class="mt-6 text-center text-3xl font-semibold">Computer Vision</h2>
 					</CardContent>
 				</Card>
 				<Card class="relative col-span-full overflow-hidden sm:col-span-3 lg:col-span-2">
@@ -82,10 +82,10 @@
 							<h2
 								class="group-hover:text-secondary-950 text-lg font-medium transition dark:text-white"
 							>
-								Built-In Security
+								Visual Documentation
 							</h2>
 							<p class="text-sm text-muted-foreground">
-								Implement best security practices from the start to protect data, users, and your
+								Capture work instructions automatically as your experts perform tasks, turning tribal knowledge
 								web applications effortlessly.
 							</p>
 						</div>

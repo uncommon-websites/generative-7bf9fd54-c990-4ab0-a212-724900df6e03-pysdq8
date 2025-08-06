@@ -26,5 +26,29 @@
   {
     "prompt": "A professional headshot of a business advisor, with a natural industrial backdrop. The lighting combines warm and cool tones, casting a realistic glow on the advisor's face. The background showcases elements like wooden pallets and brushed steel, providing context and texture to the portrait. The advisor's expression is focused and poised, reflecting expertise and trustworthiness.",
     "filename": "/generated/image-a-professional-headshot-of-a-business-ad.webp"
+  },
+  {
+    "prompt": "A manufacturing worker documenting an assembly process, standing amidst various machinery. The worker is focused, holding a notepad and pen, rather than a tablet, capturing details. The environment is naturally lit, with warm and cool tones playing off the industrial grays and subtle color highlights. The surfaces show honest wear, with brushed steel and oiled concrete visible. The worker's skin shows real texture, with sweaty forearms and dirt under the nails.",
+    "filename": "/generated/image-a-manufacturing-worker-documenting-an-as.webp"
+  },
+  {
+    "prompt": "An industrial factory floor bustling with workers and machinery. The workers are engaged in various tasks, adjusting valves, and referencing equipment. The setting is naturally lit, with overhead fluorescents and diffused daylight creating a realistic interplay of warm and cool tones. The environment features neutral industrial grays, with hints of dusty blue and utility khaki. Surfaces are worn but functional, with brushed steel and oiled concrete.",
+    "filename": "/generated/image-an-industrial-factory-floor-bustling-wit.webp"
+  },
+  {
+    "prompt": "A team of manufacturing engineers collaborating in a factory setting, gathered around a table discussing process improvement. The engineers are captured mid-action, pointing at diagrams and referencing physical components. The lighting is a mix of overhead fluorescents and natural daylight, with subtle color highlights in the environment. The space is filled with racks of parts and machinery, providing depth and context. The engineers are focused and engaged, with real and varied skin tones.",
+    "filename": "/generated/image-a-team-of-manufacturing-engineers-collab.webp"
+  },
+  {
+    "prompt": "Close-up of hands assembling precision manufacturing components. The hands are skillfully adjusting small parts, with visible dirt under the nails and real skin texture. The background is slightly blurred but provides context, showing parts of machinery and tools in a naturally lit environment. The lighting highlights the interplay of warm and cool tones across the components, with surfaces showing honest wear and use.",
+    "filename": "/generated/image-close-up-of-hands-assembling-precision-m.webp"
+  },
+  {
+    "prompt": "A manufacturing quality control inspector checking products on a factory floor. The inspector is focused, examining a product closely, with tools and machinery in the background. The environment is naturally lit, with overhead fluorescents and diffused daylight creating an interplay of warm and cool tones. The setting features neutral industrial grays, with subtle highlights of dusty blue and deep navy. The surfaces show wear, with brushed steel and oiled concrete.",
+    "filename": "/generated/image-a-manufacturing-quality-control-inspecto.webp"
+  },
+  {
+    "prompt": "A modern manufacturing facility with workers and automated systems. The facility is spacious, with workers moving purposefully between areas. The environment is filled with machinery and racks of parts, providing depth. The lighting is a natural mix of overhead fluorescents and daylight, creating a realistic warm and cool tone interplay. The setting features neutral industrial grays with subtle color highlights, and surfaces show honest wear. Workers are captured mid-action, focused on their tasks.",
+    "filename": "/generated/image-a-modern-manufacturing-facility-with-wor.webp"
   }
 ]
