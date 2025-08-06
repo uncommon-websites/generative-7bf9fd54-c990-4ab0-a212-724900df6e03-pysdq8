@@ -19,10 +19,10 @@
 	};
 
 	let menuItems: MenuItem[] = [
-		{ name: 'Features', href: '#a' },
-		{ name: 'Solution', href: '#a' },
-		{ name: 'Pricing', href: '#a' },
-		{ name: 'About', href: '#a' }
+		{ name: 'Features', href: '#features' },
+		{ name: 'Team', href: '#team' },
+		{ name: 'Pricing', href: '#pricing' },
+		{ name: 'Contact', href: '#contact' }
 	];
 
 	let menuState = $state(false);
@@ -72,7 +72,7 @@
 								href="#link"
 								class="group mx-auto flex w-fit items-center gap-4 rounded-full border bg-muted p-1 pl-4 shadow-md shadow-zinc-950/5 transition-colors duration-300 hover:bg-background dark:border-t-white/5 dark:shadow-zinc-950 dark:hover:border-t-border"
 							>
-								<span class="text-sm text-foreground">Introducing Support for AI Models</span>
+								<span class="text-sm text-foreground">Proactive AI for Organizational Alignment</span>
 								<span
 									class="block h-4 w-0.5 border-l bg-white dark:border-background dark:bg-zinc-700"
 								></span>
@@ -95,11 +95,10 @@
 						</div>
 
 						<h1 class="mt-8 text-6xl text-balance md:text-7xl lg:mt-16 xl:text-[5.25rem]">
-							Modern Solutions for Customer Engagement
+							Stop Wasting Time on Misaligned Teams
 						</h1>
 						<p class="mx-auto mt-8 max-w-2xl text-lg text-balance">
-							Highly customizable components for building modern websites and applications that look
-							and feel the way you mean it.
+							Sentra's autonomous AI agents detect organizational misalignment in real-time and intervene before it costs your company time and money. Built for fast-growing tech companies.
 						</p>
 
 						<div class="mt-12 flex flex-col items-center justify-center gap-2 md:flex-row">
@@ -107,11 +106,11 @@
 								class="border bg-foreground/10 p-0.5"
 								style="border-radius: calc(0.5rem + 0.125rem + 4px);"
 							>
-								<Button href="#link" size="lg" class="rounded-xl px-5 text-base">
-									<span class="text-nowrap">Start Building</span>
+								<Button href="#contact" size="lg" class="rounded-xl px-5 text-base">
+									<span class="text-nowrap">Get Early Access</span>
 								</Button>
 							</div>
-							<Button size="lg" variant="ghost" class="rounded-xl px-5">Request a demo</Button>
+							<Button size="lg" variant="ghost" class="rounded-xl px-5">Book a Demo</Button>
 						</div>
 					</div>
 				</div>
