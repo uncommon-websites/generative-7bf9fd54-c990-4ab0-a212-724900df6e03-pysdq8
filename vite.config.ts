@@ -5,6 +5,6 @@ import { defineConfig } from 'vite';
 export default defineConfig({
 	plugins: [tailwindcss(), sveltekit()],
 	server: {
-		allowedHosts: 'all'
+		allowedHosts: ['75fsrc-5173.csb.app']
 	}
 });
