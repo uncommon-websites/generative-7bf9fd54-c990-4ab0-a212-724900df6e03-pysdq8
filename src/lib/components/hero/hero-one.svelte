@@ -19,10 +19,10 @@
 	};
 
 	let menuItems: MenuItem[] = [
-		{ name: 'Features', href: '#features' },
-		{ name: 'Team', href: '#team' },
-		{ name: 'Pricing', href: '#pricing' },
-		{ name: 'Contact', href: '#contact' }
+		{ name: 'About', href: '/about' },
+		{ name: 'Features', href: '/features' },
+		{ name: 'Team', href: '/team' },
+		{ name: 'Contact', href: '/contact' }
 	];
 
 	let menuState = $state(false);
@@ -106,11 +106,11 @@
 								class="border bg-foreground/10 p-0.5"
 								style="border-radius: calc(0.5rem + 0.125rem + 4px);"
 							>
-								<Button href="#contact" size="lg" class="rounded-xl px-5 text-base">
+								<Button href="/contact" size="lg" class="rounded-xl px-5 text-base">
 									<span class="text-nowrap">Get a Demo</span>
 								</Button>
 							</div>
-							<Button size="lg" variant="ghost" class="rounded-xl px-5">See How It Works</Button>
+							<Button href="/features" size="lg" variant="ghost" class="rounded-xl px-5">See How It Works</Button>
 						</div>
 					</div>
 				</div>

@@ -5,60 +5,36 @@
 			items: [
 				{
 					title: 'Features',
-					href: '#'
+					href: '/features'
 				},
 				{
-					title: 'Solution',
-					href: '#'
+					title: 'How It Works',
+					href: '/features'
 				},
 				{
-					title: 'Customers',
-					href: '#'
-				},
-				{
-					title: 'Pricing',
-					href: '#'
-				},
-				{
-					title: 'Help',
-					href: '#'
-				},
-				{
-					title: 'About',
-					href: '#'
+					title: 'Demo',
+					href: '/contact'
 				}
 			]
 		},
 		{
-			group: 'Solution',
+			group: 'Solutions',
 			items: [
 				{
-					title: 'Startup',
-					href: '#'
+					title: 'Manufacturing',
+					href: '/features'
 				},
 				{
-					title: 'Freelancers',
-					href: '#'
+					title: 'Process Documentation',
+					href: '/features'
 				},
 				{
-					title: 'Organizations',
-					href: '#'
+					title: 'Knowledge Management',
+					href: '/about'
 				},
 				{
-					title: 'Students',
-					href: '#'
-				},
-				{
-					title: 'Collaboration',
-					href: '#'
-				},
-				{
-					title: 'Design',
-					href: '#'
-				},
-				{
-					title: 'Management',
-					href: '#'
+					title: 'Multi-Location',
+					href: '/features'
 				}
 			]
 		},
@@ -67,47 +43,39 @@
 			items: [
 				{
 					title: 'About',
-					href: '#'
+					href: '/about'
+				},
+				{
+					title: 'Team',
+					href: '/team'
 				},
 				{
 					title: 'Careers',
-					href: '#'
-				},
-				{
-					title: 'Blog',
-					href: '#'
-				},
-				{
-					title: 'Press',
-					href: '#'
+					href: 'mailto:careers@squint.com'
 				},
 				{
 					title: 'Contact',
-					href: '#'
-				},
-				{
-					title: 'Help',
-					href: '#'
+					href: '/contact'
 				}
 			]
 		},
 		{
-			group: 'Legal',
+			group: 'Support',
 			items: [
 				{
-					title: 'Licence',
+					title: 'Help Center',
+					href: 'mailto:support@squint.com'
+				},
+				{
+					title: 'Contact Support',
+					href: 'mailto:support@squint.com'
+				},
+				{
+					title: 'Privacy Policy',
 					href: '#'
 				},
 				{
-					title: 'Privacy',
-					href: '#'
-				},
-				{
-					title: 'Cookies',
-					href: '#'
-				},
-				{
-					title: 'Security',
+					title: 'Terms of Service',
 					href: '#'
 				}
 			]
@@ -172,7 +140,7 @@
 		</div>
 		<div class="mt-12 flex flex-wrap items-end justify-between gap-6 border-t py-6">
 			<span class="order-last block text-center text-sm text-muted-foreground md:order-first"
-				>© {new Date().getFullYear()} Tailus UI, All rights reserved</span
+				>© {new Date().getFullYear()} Squint, All rights reserved</span
 			>
 			<div class="order-first flex flex-wrap justify-center gap-6 text-sm md:order-last">
 				<a
